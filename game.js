@@ -12,7 +12,8 @@ function main(currentTime) {
       window.location.href = 'https://tsunamham.github.io/snake_game/'
     }
     return
-  }
+
+
 
 
   window.requestAnimationFrame(main)
